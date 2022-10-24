@@ -1,6 +1,6 @@
 <body>
  
-<table border="2" style="margin:32px 0 0 32px;">
+<table border="1">
  
 <?php
 	
